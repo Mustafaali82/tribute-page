@@ -1,0 +1,59 @@
+#main{
+    background-color:aqua;
+     margin: 0px;
+     padding: 0px;
+     font-style: italic;
+ }
+ #title{
+     text-align: center;
+     padding: -33px;
+ }
+ #title:hover{
+     width: 200px;
+     color: yellow;
+ }
+ figure{
+ display: grid;
+ justify-items: center;
+ 
+ }
+ #img-div{
+     background-color: yellow;
+     border: 55px solid yellow;
+     align-items: center;
+     text-align: center;
+     height: auto;
+ }
+ #img-div:hover{
+     
+     color: blue;
+ }
+ #image{
+     max-width: 95.9%;
+     height: auto;
+   }
+ 
+ #img-caption{
+     font-size: 20px;
+ }
+ ul{
+     margin-left: 23%;
+     margin-right: 23%;
+     color: royalblue;
+ }
+ #tribute-link{
+     margin-left: 0px;
+     color: yellow;
+ }
+ #tribute-link-text{
+     margin-left: 25%;
+ font-size: 20px;
+ }
+ .project-tile{
+     text-align: center;
+     
+ }
+ .project-tile:hover{
+     color: yellow;
+     width: 200px;
+ }
